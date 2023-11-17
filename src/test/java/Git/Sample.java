@@ -1,9 +1,9 @@
 package Git;
 
 public class Sample {
-
+	//TC004
 	public static void main(String[] args) {
-		System.out.println("dELETED IN SAMPLE");
+		System.out.println("Again");
 
 	}
 
